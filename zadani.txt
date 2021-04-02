@@ -1,0 +1,16 @@
+Spravce souboru
+
+Zadani z progtestu
+
+Spravce souboru
+
+Program na spravu souboru/adresaru (inspirace Midnight Commander).
+
+Implementujte nasledujici funkcionalitu:
+
+1. vytvareni a mazani souboru/adresaru/symbolickych linku ...
+2. kopirovani a presun souboru/adresaru/symbolickych linku ...
+3. moznost provadet predchozi operace nad mnozinou soboru definovanych regularnim vyrazem
+4. navigace mezi jednotlivymi adresari
+5. uzivatelske rozhrani: zobrazeni adresaru nad kterymi se pracuje a vizualni rozlišeni souboru/adresaru/symbolickych linku ...
+6. nepouzivejte bezhlave funkci system, vyuzijte misto toho systemove knihovny unistd.h, dirent.h, stat.h a dalši, funkci system pouzijte v momente, kdy nenajdete alternativu

@@ -1,0 +1,3 @@
+<map id="CDatabase" name="CDatabase">
+<area shape="rect" id="node2" href="$classCFile.html" title="{CFile\n|# name\l# location\l# creation\l# owner\l# size\l|+ CFile()\l+ ~CFile()\l+ printCFile()\l+ getType()\l+ clone()\l+ getFullName()\l+ getName()\l+ getCreation()\l+ getLocation()\l+ getOwner()\l+ getSize()\l}" alt="" coords="5,5,121,288"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="CFile" name="CFile">
+<area shape="rect" id="node2" href="$classCAudio.html" title="{CAudio\n|# extension\l|+ CAudio()\l+ CAudio()\l+ printCFile()\l+ getType()\l+ clone()\l+ getFullName()\l}" alt="" coords="5,336,121,487"/>
+<area shape="rect" id="node3" href="$classCCompressed.html" title="{CCompressed\n|# extension\l|+ CCompressed()\l+ CCompressed()\l+ printCFile()\l+ getType()\l+ clone()\l+ getFullName()\l}" alt="" coords="145,336,272,487"/>
+<area shape="rect" id="node4" href="$classCDatabase.html" title="{CDatabase\n|# extension\l|+ CDatabase()\l+ CDatabase()\l+ printCFile()\l+ getType()\l+ clone()\l+ getFullName()\l}" alt="" coords="296,336,412,487"/>
+<area shape="rect" id="node5" href="$classCDiskMedia.html" title="{CDiskMedia\n|# extension\l|+ CDiskMedia()\l+ CDiskMedia()\l+ printCFile()\l+ getType()\l+ clone()\l+ getFullName()\l}" alt="" coords="436,336,552,487"/>
+<area shape="rect" id="node6" href="$classCExe.html" title="{CExe\n|# extension\l|+ CExe()\l+ CExe()\l+ printCFile()\l+ getType()\l+ clone()\l+ getFullName()\l}" alt="" coords="576,336,692,487"/>
+<area shape="rect" id="node7" href="$classCFolder.html" title="{CFolder\n||+ CFolder()\l+ CFolder()\l+ printCFile()\l+ getType()\l+ clone()\l+ getFullName()\l}" alt="" coords="716,336,832,487"/>
+<area shape="rect" id="node8" href="$classCLink.html" title="{CLink\n||+ CLink()\l+ CLink()\l+ printCFile()\l+ getType()\l+ clone()\l+ getFullName()\l}" alt="" coords="856,336,972,487"/>
+<area shape="rect" id="node9" href="$classCPhoto.html" title="{CPhoto\n|# extension\l|+ CPhoto()\l+ CPhoto()\l+ printCFile()\l+ getType()\l+ clone()\l+ getFullName()\l}" alt="" coords="996,336,1112,487"/>
+<area shape="rect" id="node10" href="$classCProgramming.html" title="{CProgramming\n|# extension\l|+ CProgramming()\l+ CProgramming()\l+ printCFile()\l+ getType()\l+ clone()\l+ getFullName()\l}" alt="" coords="1136,336,1265,487"/>
+<area shape="rect" id="node11" href="$classCText.html" title="{CText\n|# extension\l|+ CText()\l+ CText()\l+ printCFile()\l+ getType()\l+ clone()\l+ getFullName()\l}" alt="" coords="1289,336,1405,487"/>
+<area shape="rect" id="node12" href="$classCUnknown.html" title="{CUnknown\n|# extension\l|+ CUnknown()\l+ CUnknown()\l+ printCFile()\l+ getType()\l+ clone()\l+ getFullName()\l}" alt="" coords="1429,336,1545,487"/>
+<area shape="rect" id="node13" href="$classCVideo.html" title="{CVideo\n|# extension\l|+ CVideo()\l+ CVideo()\l+ printCFile()\l+ getType()\l+ clone()\l+ getFullName()\l}" alt="" coords="1569,336,1685,487"/>
+</map>

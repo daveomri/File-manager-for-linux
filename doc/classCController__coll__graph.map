@@ -1,0 +1,3 @@
+<map id="CController" name="CController">
+<area shape="rect" id="node2" href="$classCData.html" title="{CData\n|&#45; photoextension\l&#45; textextension\l&#45; videoextension\l&#45; audioextension\l&#45; compressedextension\l&#45; diskMediaextension\l&#45; databaseextension\l&#45; exeextension\l&#45; programmingextension\l&#45; curDir\l&#45; dirContent\l&#45; copyContent\l&#45; moveContent\l&#45; fileInfo\l|+ CData()\l+ ~CData()\l+ isPhoto()\l+ isText()\l+ isVideo()\l+ isAudio()\l+ isCompressed()\l+ isDiskMedia()\l+ isDatabase()\l+ isExe()\land 44 more...\l}" alt="" coords="5,5,167,420"/>
+</map>
